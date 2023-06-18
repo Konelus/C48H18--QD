@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="latin1"?>
+<EXTENSION VERSION="20.1">
+<LOGICS>
+<LOGICITEM NAME="AtomVolumesLogic">
+	<STATE NAME="Atom Volume State" VERSION="20.1">
+	<PROPERTIES>
+	<PROPERTY NAME="GridResolution">
+	<VALUE>3</VALUE>
+	</PROPERTY>
+	<PROPERTY NAME="GridInterval">
+	<VALUE>0.25</VALUE>
+	</PROPERTY>
+	<PROPERTY NAME="ConnollyRadius">
+	<VALUE>0.99</VALUE>
+	</PROPERTY>
+	</PROPERTIES>
+	</STATE>
+</LOGICITEM>
+<LOGICITEM NAME="ScriptedAtomVolumesConnolly">
+	<STATE NAME="Atom Volume State" VERSION="20.1">
+	<PROPERTIES>
+	</PROPERTIES>
+	</STATE>
+</LOGICITEM>
+<LOGICITEM NAME="ScriptedAtomVolumesSolvent">
+	<STATE NAME="Atom Volume State" VERSION="20.1">
+	<PROPERTIES>
+	</PROPERTIES>
+	</STATE>
+</LOGICITEM>
+</LOGICS>
+</EXTENSION>

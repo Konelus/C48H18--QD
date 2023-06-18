@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="latin1"?>
+<!DOCTYPE XCD []>
+<XCD Version="20.1" NumCharts="1">
+	<CHART_2D>
+		<DATA_2D NumSeries="1">
+			<SERIES_2D UniqueID="0" Name="DMol3 electrophilic Fukui function Ha*ang(-3)" NumPoints="100">
+				<POINT_2D XY="-743481.1015625,6.493506493506494e-06"/>
+				<POINT_2D XY="-736008.9296875,0"/>
+				<POINT_2D XY="-728536.7578125,0"/>
+				<POINT_2D XY="-721064.5859375,0"/>
+				<POINT_2D XY="-713592.4140625,0"/>
+				<POINT_2D XY="-706120.2421875,0"/>
+				<POINT_2D XY="-698648.0703125,0"/>
+				<POINT_2D XY="-691175.8984375,0"/>
+				<POINT_2D XY="-683703.7265625,0"/>
+				<POINT_2D XY="-676231.5546875,0"/>
+				<POINT_2D XY="-668759.3828125,0"/>
+				<POINT_2D XY="-661287.2109375,0"/>
+				<POINT_2D XY="-653815.0390625,0"/>
+				<POINT_2D XY="-646342.8671875,0"/>
+				<POINT_2D XY="-638870.6953125,6.493506493506494e-06"/>
+				<POINT_2D XY="-631398.5234375,0"/>
+				<POINT_2D XY="-623926.3515625,0"/>
+				<POINT_2D XY="-616454.1796875,0"/>
+				<POINT_2D XY="-608982.0078125,0"/>
+				<POINT_2D XY="-601509.8359375,0"/>
+				<POINT_2D XY="-594037.6640625,0"/>
+				<POINT_2D XY="-586565.4921875,0"/>
+				<POINT_2D XY="-579093.3203125,0"/>
+				<POINT_2D XY="-571621.1484375,0"/>
+				<POINT_2D XY="-564148.9765625,0"/>
+				<POINT_2D XY="-556676.8046875,0"/>
+				<POINT_2D XY="-549204.6328125,0"/>
+				<POINT_2D XY="-541732.4609375,0"/>
+				<POINT_2D XY="-534260.2890625,0"/>
+				<POINT_2D XY="-526788.1171875,0"/>
+				<POINT_2D XY="-519315.9453125,0"/>
+				<POINT_2D XY="-511843.7734375,0"/>
+				<POINT_2D XY="-504371.6015625,0"/>
+				<POINT_2D XY="-496899.4296875,0"/>
+				<POINT_2D XY="-489427.2578125,0"/>
+				<POINT_2D XY="-481955.0859375,0"/>
+				<POINT_2D XY="-474482.9140625,0"/>
+				<POINT_2D XY="-467010.7421875,0"/>
+				<POINT_2D XY="-459538.5703125,0"/>
+				<POINT_2D XY="-452066.3984375,0"/>
+				<POINT_2D XY="-444594.2265625,0"/>
+				<POINT_2D XY="-437122.0546875,0"/>
+				<POINT_2D XY="-429649.8828125,0"/>
+				<POINT_2D XY="-422177.7109375,0"/>
+				<POINT_2D XY="-414705.5390625,0"/>
+				<POINT_2D XY="-407233.3671875,0"/>
+				<POINT_2D XY="-399761.1953125,0"/>
+				<POINT_2D XY="-392289.0234375,0"/>
+				<POINT_2D XY="-384816.8515625,0"/>
+				<POINT_2D XY="-377344.6796875,0"/>
+				<POINT_2D XY="-369872.5078125,0"/>
+				<POINT_2D XY="-362400.3359375,0"/>
+				<POINT_2D XY="-354928.1640625,0"/>
+				<POINT_2D XY="-347455.9921875,0"/>
+				<POINT_2D XY="-339983.8203125,0"/>
+				<POINT_2D XY="-332511.6484375,6.493506493506494e-06"/>
+				<POINT_2D XY="-325039.4765625,0"/>
+				<POINT_2D XY="-317567.3046875,0"/>
+				<POINT_2D XY="-310095.1328125,0"/>
+				<POINT_2D XY="-302622.9609375,0"/>
+				<POINT_2D XY="-295150.7890625,6.493506493506494e-06"/>
+				<POINT_2D XY="-287678.6171875,0"/>
+				<POINT_2D XY="-280206.4453125,0"/>
+				<POINT_2D XY="-272734.2734375,0"/>
+				<POINT_2D XY="-265262.1015625,0"/>
+				<POINT_2D XY="-257789.9296875,0"/>
+				<POINT_2D XY="-250317.7578125,0"/>
+				<POINT_2D XY="-242845.5859375,1.298701298701299e-05"/>
+				<POINT_2D XY="-235373.4140625,0"/>
+				<POINT_2D XY="-227901.2421875,0"/>
+				<POINT_2D XY="-220429.0703125,0"/>
+				<POINT_2D XY="-212956.8984375,6.493506493506494e-06"/>
+				<POINT_2D XY="-205484.7265625,0"/>
+				<POINT_2D XY="-198012.5546875,6.493506493506494e-06"/>
+				<POINT_2D XY="-190540.3828125,0"/>
+				<POINT_2D XY="-183068.2109375,0"/>
+				<POINT_2D XY="-175596.0390625,1.298701298701299e-05"/>
+				<POINT_2D XY="-168123.8671875,6.493506493506494e-06"/>
+				<POINT_2D XY="-160651.6953125,0"/>
+				<POINT_2D XY="-153179.5234375,0"/>
+				<POINT_2D XY="-145707.3515625,6.493506493506494e-06"/>
+				<POINT_2D XY="-138235.1796875,0"/>
+				<POINT_2D XY="-130763.0078125,0"/>
+				<POINT_2D XY="-123290.8359375,0"/>
+				<POINT_2D XY="-115818.6640625,6.493506493506494e-06"/>
+				<POINT_2D XY="-108346.4921875,6.493506493506494e-06"/>
+				<POINT_2D XY="-100874.3203125,0"/>
+				<POINT_2D XY="-93402.1484375,1.298701298701299e-05"/>
+				<POINT_2D XY="-85929.9765625,6.493506493506494e-06"/>
+				<POINT_2D XY="-78457.8046875,0"/>
+				<POINT_2D XY="-70985.6328125,1.948051948051948e-05"/>
+				<POINT_2D XY="-63513.4609375,1.298701298701299e-05"/>
+				<POINT_2D XY="-56041.2890625,2.597402597402598e-05"/>
+				<POINT_2D XY="-48569.1171875,3.246753246753247e-05"/>
+				<POINT_2D XY="-41096.9453125,3.896103896103896e-05"/>
+				<POINT_2D XY="-33624.7734375,5.844155844155844e-05"/>
+				<POINT_2D XY="-26152.6015625,0.0002467532467532467"/>
+				<POINT_2D XY="-18680.4296875,0.0006428571428571428"/>
+				<POINT_2D XY="-11208.2578125,0.006954545454545455"/>
+				<POINT_2D XY="-3736.0859375,0.9918571428571429"/>
+			</SERIES_2D>
+		</DATA_2D>
+		<MARKERS_2D NumMarkers="0" Visible="true" Width="1" Style="Solid" Color="255,0,0"/>
+		<CARTESIAN_2D_PLOT PlotType="Line" Visible="1" BackgroundColor="255,255,255" ForegroundColor="0,0,0" Box="1">
+			<TITLE Visible="1" Text="Field Distribution">
+				<FONT/>
+			</TITLE>
+			<LEGEND Visible="1" Heading=""/>
+			<CARTESIAN_AXES_2D XOriginPos="Auto" YOriginPos="Min" XTickPos="Auto" YTickPos="Auto">
+				<AXIS_X Visible="true" Reversed="false" Title="Field Value">
+					<FONT/>
+					<AXIS_LINE Visible="true" Width="1" Style="Solid" Color="185,185,185"/>
+					<MAJOR_TICKMARKS Length="6" Visible="true" Width="1" Style="Solid" Color="185,185,185"/>
+					<MINOR_TICKMARKS Length="2" Visible="true" Width="1" Style="Solid" Color="185,185,185"/>
+				</AXIS_X>
+				<AXIS_Y Visible="true" Reversed="false" Title="Distribution">
+					<FONT/>
+					<AXIS_LINE Visible="true" Width="1" Style="Solid" Color="185,185,185"/>
+					<MAJOR_TICKMARKS Length="6" Visible="true" Width="1" Style="Solid" Color="185,185,185"/>
+					<MINOR_TICKMARKS Length="2" Visible="true" Width="1" Style="Solid" Color="185,185,185"/>
+				</AXIS_Y>
+			</CARTESIAN_AXES_2D>
+			<CARTESIAN_GRID_2D>
+				<GRID_X Visible="true" DefaultSpaced="true" Spacing="0">
+					<MAJOR_LINES Visible="false" Width="1" Style="Solid" Color="236,236,236"/>
+					<MINOR_LINES Visible="false" Width="1" Style="Solid" Color="236,236,236"/>
+				</GRID_X>
+				<GRID_Y Visible="true" DefaultSpaced="true" Spacing="0">
+					<MAJOR_LINES Visible="true" Width="1" Style="Solid" Color="236,236,236"/>
+					<MINOR_LINES Visible="false" Width="1" Style="Solid" Color="236,236,236"/>
+				</GRID_Y>
+			</CARTESIAN_GRID_2D>
+			<CARTESIAN_GRAPH_2D_STYLE LineVisible="true" LineWidth="1" LineStyle="Solid" LineColor="0,0,255" SymbolSize="2" SymbolShape="Dot" SymbolColor="0,0,255" BarOrientation="Horizontal" BarWidth="0.5" BarColor="0,0,255" DendrogramCursorColor="0,0,255" DendrogramCursorWidth="1" DendrogramCursorPosition="0.5"/>
+		</CARTESIAN_2D_PLOT>
+	</CHART_2D>
+</XCD>
