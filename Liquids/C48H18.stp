@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+  <Version>20.1</Version>
+  <Reference>{72864AF0-B3EF-4FE8-92D9-B6971540D027}</Reference>
+  <DocumentManager>
+    <Document>
+      <ID>{1E2BA09B-4A6E-4D16-9313-9304BC7135E6}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 GeomOpt\C48H18 (C1H) Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{1F32A24F-027D-43A4-9228-24CFCA7F6C77}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Ethanol)\C48H18 (C1H) DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{41A1EC4D-A5A1-4D21-AF0A-1F349127D971}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Ethanol)\C48H18 (C1H) Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{9E024EC5-7B64-434B-80F6-CD3F005C1D20}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Ethanol)\C48H18 (C1H) Sigma Profile.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{D70AC22A-2480-4189-BD17-D2C760823C46}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Ethanol)\C48H18 (C1H).arc</URL>
+    </Document>
+    <Document>
+      <ID>{875511C3-669F-4886-A83A-C2876C3C848F}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Ethanol)\C48H18 (C1H).cosmo</URL>
+    </Document>
+    <Document>
+      <ID>{461CC55A-4B52-4416-97CA-EB31173EAA94}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Ethanol)\C48H18 (C1H).input</URL>
+    </Document>
+    <Document>
+      <ID>{B9DF3624-5CCE-4674-BFBB-A3D4DEE3EFFA}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Ethanol)\C48H18 (C1H).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{DC10FA7A-5634-4946-BA3A-C2C7BF5168C4}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Ethanol)\C48H18 (C1H).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{3FA072CC-025E-447D-AEA7-6899CC9A39CC}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Ethanol)\SMDMol3_Extension_C48H18 (C1H).xms</URL>
+    </Document>
+    <Document>
+      <ID>{1E316831-976F-4D11-BC6E-347E6DA72D55}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Ethanol)\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{66AB61DC-0874-47D4-A0B4-E857C4889B22}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Water)\C48H18 (C1H) DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{7F659733-C5D2-4701-80D9-7240B769ACD8}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Water)\C48H18 (C1H) Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{5133B8A0-32DA-4EAF-8BED-D9341C92C0EF}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Water)\C48H18 (C1H) Sigma Profile.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{C0F21A46-01D6-4625-920A-AC764F332358}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Water)\C48H18 (C1H).arc</URL>
+    </Document>
+    <Document>
+      <ID>{896324D4-FDBD-40DE-9AEC-9394D86AA767}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Water)\C48H18 (C1H).cosmo</URL>
+    </Document>
+    <Document>
+      <ID>{3A666D59-A534-41BB-ABA0-4DEBF7824678}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Water)\C48H18 (C1H).input</URL>
+    </Document>
+    <Document>
+      <ID>{A6578E05-4000-46B0-BF87-CBE8804295C7}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Water)\C48H18 (C1H).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{0295D4C9-4B41-4E8C-9C7B-D554EA7F18B0}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Water)\C48H18 (C1H).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{B08D1BB7-C3F8-4E1F-B408-47DE05C2A5AD}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Water)\SMDMol3_Extension_C48H18 (C1H).xms</URL>
+    </Document>
+    <Document>
+      <ID>{E8082FF5-A569-4CB0-BF60-8F9D876FB550}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 Energy (Water)\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{24FA480A-4880-44EA-BB42-FD3EF9DC6692}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 GeomOpt\C48H18 (C1H) DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{E4376348-F7E3-4FE5-B41F-5826CFD1A585}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 GeomOpt\C48H18 (C1H) Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{077D2751-415B-4159-BA48-7E2C0307F77A}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 GeomOpt\C48H18 (C1H) Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{67835A83-7F5F-48D3-B518-A621959A8063}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 GeomOpt\C48H18 (C1H).input</URL>
+    </Document>
+    <Document>
+      <ID>{3387E70B-3BD0-4B2C-B613-23B6B900E4BA}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 GeomOpt\C48H18 (C1H).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{1BAA8A62-531E-480D-B787-3EE5264758FE}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 GeomOpt\C48H18 (C1H).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{46FBF671-3B26-4AB3-9EDC-FF3E5381DE0B}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 GeomOpt\C48H18 (C1H).xtd</URL>
+    </Document>
+    <Document>
+      <ID>{F2D66393-0798-418C-BBC1-A43988695F1D}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 GeomOpt\SMDMol3_Extension_C48H18 (C1H).xms</URL>
+    </Document>
+    <Document>
+      <ID>{E0A6A7D5-446C-48CC-A426-4E92C65CABDD}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H) DMol3 GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{2494530C-D6B2-44EF-9053-650527BFA126}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 GeomOpt\C48H18 (D2H) Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{940F10E1-552A-45C2-9E7E-BF0032495211}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Ethanol)\C48H18 (D2H) Sigma Profile.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{3A9ED9FD-1FEE-4173-9619-5079169C2A64}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Ethanol)\C48H18 (D2H).arc</URL>
+    </Document>
+    <Document>
+      <ID>{B15B99A4-8674-4476-B23B-2DE95444FC70}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Ethanol)\C48H18 (D2H).cosmo</URL>
+    </Document>
+    <Document>
+      <ID>{A44CE546-3A91-4D27-98E3-20B0BC48F805}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Ethanol)\C48H18 (D2H).input</URL>
+    </Document>
+    <Document>
+      <ID>{67994B08-B703-41EA-8E7A-EFA1E8742CDF}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Ethanol)\C48H18 (D2H).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{9A155D40-F9EE-4F98-8178-21BD0CC95F95}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Ethanol)\C48H18 (D2H).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{B23B71E2-A3E3-4C0A-BDF5-9ADAF9C742C8}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Ethanol)\SMDMol3_Extension_C48H18 (D2H).xms</URL>
+    </Document>
+    <Document>
+      <ID>{55C2A449-F2D3-494E-B2BF-7E7A132C7407}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Ethanol)\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{ED9FAEB9-0456-458A-9ED2-4E6C3ADF722C}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Water)\C48H18 (D2H) DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{89AC9D5D-CBA5-4C69-80F8-27DC8915FEC4}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Water)\C48H18 (D2H) Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{845E036A-F8FC-4485-98B2-AAC2DC8C6822}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Water)\C48H18 (D2H) Sigma Profile.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{CF72391D-95A3-40B7-82D3-E2A33A8BE900}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Water)\C48H18 (D2H).arc</URL>
+    </Document>
+    <Document>
+      <ID>{B3378D23-43DC-495C-AE84-0AC30F579731}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Water)\C48H18 (D2H).cosmo</URL>
+    </Document>
+    <Document>
+      <ID>{892F55ED-FF71-4523-A8B1-44AA73E3F075}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Water)\C48H18 (D2H).input</URL>
+    </Document>
+    <Document>
+      <ID>{2F69AEB0-A2F4-418D-A126-3B29DB81D4B2}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Water)\C48H18 (D2H).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{5408670E-F80F-4198-BA8C-200DA4900B9A}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Water)\C48H18 (D2H).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{DA4C5BEF-6DB2-4137-94A5-DF177607FBAC}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Water)\SMDMol3_Extension_C48H18 (D2H).xms</URL>
+    </Document>
+    <Document>
+      <ID>{C079F344-B76B-4A46-9558-CE38504BAB26}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 Energy (Water)\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{B332D521-37DF-4B26-892E-F8BAF29409DD}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 GeomOpt\C48H18 (D2H) DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{67937004-A378-46DF-BEF5-BD85ACE7D71B}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 GeomOpt\C48H18 (D2H) Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{324303CD-E019-45AB-B8C1-E5EED07FEB1D}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 GeomOpt\C48H18 (D2H) Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{79DF0497-193E-45F0-A982-22608DEBF067}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 GeomOpt\C48H18 (D2H).input</URL>
+    </Document>
+    <Document>
+      <ID>{2167BD6C-0A87-4179-A33B-E667999AD7EC}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 GeomOpt\C48H18 (D2H).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{1A7E293D-BFAD-4FBD-8E31-17D8671C0162}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 GeomOpt\C48H18 (D2H).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{CE4BA20F-A9F9-4556-853A-AD1659AAD962}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 GeomOpt\C48H18 (D2H).xtd</URL>
+    </Document>
+    <Document>
+      <ID>{7A3650BE-8F1E-4811-BB85-9A367FDFE947}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 GeomOpt\SMDMol3_Extension_C48H18 (D2H).xms</URL>
+    </Document>
+    <Document>
+      <ID>{02B4AAA5-7E27-44AF-B40F-5C78131F0FAA}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H) DMol3 GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{72279ABF-AE16-45C6-8FCE-0BD252A1FBF7}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 GeomOpt\C48H18 (D3H) Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{0E1CBFC6-5F1F-4F55-9B0C-742D3549BD7A}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Ethonol)\C48H18 (D3H) DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{00CE96F6-C97F-4BEA-94CF-28375333D2C2}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Ethonol)\C48H18 (D3H) Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{4ABB9169-8EB3-4E7E-8813-AB96037FE3E1}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Ethonol)\C48H18 (D3H) Sigma Profile.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{B2EF2C42-7847-465B-AD10-4CDD6BD5C717}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Ethonol)\C48H18 (D3H).arc</URL>
+    </Document>
+    <Document>
+      <ID>{26C90926-F9BB-410E-93FF-2259DDC15C54}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Ethonol)\C48H18 (D3H).cosmo</URL>
+    </Document>
+    <Document>
+      <ID>{5622047A-A33B-4AEC-ACC6-8BF16E91C8FD}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Ethonol)\C48H18 (D3H).input</URL>
+    </Document>
+    <Document>
+      <ID>{2FC0A829-177E-4981-BF9C-19B9AF857100}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Ethonol)\C48H18 (D3H).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{92F4B6CD-CB28-4306-ADD6-4F6AD396230D}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Ethonol)\C48H18 (D3H).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{B3C0FBA5-A367-45A8-97DE-4FF4E0158958}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Ethonol)\SMDMol3_Extension_C48H18 (D3H).xms</URL>
+    </Document>
+    <Document>
+      <ID>{6A929193-905E-456D-85D7-FB32BA337DD6}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Ethonol)\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{FCB36D4A-77B3-4ABA-9229-C354179C59E2}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Water)\C48H18 (D3H) DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{BEE102A2-8926-4EC5-834C-22506F489712}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Water)\C48H18 (D3H) Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{4AC6D188-6947-4F91-A811-248B908ADD5A}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Water)\C48H18 (D3H) Sigma Profile.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{117CCFDD-73FC-4DDE-8094-957D5622E01F}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Water)\C48H18 (D3H).arc</URL>
+    </Document>
+    <Document>
+      <ID>{5778622E-FCE5-433A-8DD3-A48AF8D03E50}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Water)\C48H18 (D3H).cosmo</URL>
+    </Document>
+    <Document>
+      <ID>{21BCC074-73D8-4AE1-A478-BC8391F59BD8}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Water)\C48H18 (D3H).input</URL>
+    </Document>
+    <Document>
+      <ID>{C54B538C-9BE8-4514-9ED1-35E7A75975BD}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Water)\C48H18 (D3H).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{6AEA72F7-F0DA-4A87-B379-A7B3F73068D5}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Water)\C48H18 (D3H).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{53A2DC34-DD63-4428-B4A5-227D1D8E2D03}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Water)\SMDMol3_Extension_C48H18 (D3H).xms</URL>
+    </Document>
+    <Document>
+      <ID>{B94E5B7B-293F-425B-A57B-C95DA9AA4113}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 Energy (Water)\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{6479B45A-579B-4FC4-96DC-EBB50CF6E036}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 GeomOpt\C48H18 (D3H) DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{87CEDD1C-7DCE-4A95-9718-8E779DAB0FFA}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 GeomOpt\C48H18 (D3H) Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{DFAF3391-4EA0-4BA5-A3C6-C0F98CBA0D16}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 GeomOpt\C48H18 (D3H) Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{F6A3BC6A-0066-482E-956D-1CD0087270BB}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 GeomOpt\C48H18 (D3H).input</URL>
+    </Document>
+    <Document>
+      <ID>{6E629073-C216-41AC-A79F-B4DB0B0FB632}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 GeomOpt\C48H18 (D3H).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{AFF8C965-46AE-419E-B580-24B452A96C63}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 GeomOpt\C48H18 (D3H).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{11A44A5C-E90A-474E-9D09-B56051DF4EBE}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 GeomOpt\C48H18 (D3H).xtd</URL>
+    </Document>
+    <Document>
+      <ID>{DC3588C2-AE8C-49CA-A224-042223A9CD88}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 GeomOpt\SMDMol3_Extension_C48H18 (D3H).xms</URL>
+    </Document>
+    <Document>
+      <ID>{EFD64BB7-843D-4588-80BD-A45AADB67BC3}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H) DMol3 GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{4CB8EE4C-1D4B-4409-8766-E41B5B996428}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 GeomOpt\C48H18 (QD1) Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{FA8ECB13-EAC1-445D-B3CE-7845CDDA17B8}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Ethanol)\C48H18 (QD1) DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{03077DE6-03FB-4116-BCFC-43B2BCE60A5D}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Ethanol)\C48H18 (QD1) Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{060BD78C-4E94-4EA3-93AE-8E7C80B8F2BF}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Ethanol)\C48H18 (QD1) Sigma Profile.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{6DC4F511-2A87-4B95-8BAB-17D689525A6C}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Ethanol)\C48H18 (QD1).arc</URL>
+    </Document>
+    <Document>
+      <ID>{777BDE40-B220-44FC-8037-A8995DD525F8}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Ethanol)\C48H18 (QD1).cosmo</URL>
+    </Document>
+    <Document>
+      <ID>{A0785A30-DB4D-44D3-9C0C-3F6787859DC6}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Ethanol)\C48H18 (QD1).input</URL>
+    </Document>
+    <Document>
+      <ID>{DE036F6A-B047-447C-AED3-CC14233CABD8}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Ethanol)\C48H18 (QD1).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{2F6E1F56-98D0-4BA6-BAAB-506E77178045}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Ethanol)\C48H18 (QD1).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{131474A6-3E24-4C67-83DB-0992DE9B994F}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Ethanol)\SMDMol3_Extension_C48H18 (QD1).xms</URL>
+    </Document>
+    <Document>
+      <ID>{8095D545-96DA-4419-BA68-A76592BC6E63}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Ethanol)\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{ED63D366-AEC9-4D48-9A0B-6A3915AC1762}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Water)\C48H18 (QD1) DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{A2B9C66B-7632-4A6F-B5B5-DE5646A81EB0}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Water)\C48H18 (QD1) Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{5A037565-0E71-4EB8-8F49-2C6656C8B9D8}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Water)\C48H18 (QD1) Sigma Profile.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{1ECBF350-CA56-4CE0-BF15-97109F1C0C62}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Water)\C48H18 (QD1).arc</URL>
+    </Document>
+    <Document>
+      <ID>{75D109DB-0F46-4E56-8D35-E8DE78A59A65}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Water)\C48H18 (QD1).cosmo</URL>
+    </Document>
+    <Document>
+      <ID>{2F42E8A4-8459-4D61-B718-25A6D25B89E3}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Water)\C48H18 (QD1).input</URL>
+    </Document>
+    <Document>
+      <ID>{F103EC95-7604-4E32-AE49-F84FF6424617}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Water)\C48H18 (QD1).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{C3CC31A1-E605-4BDB-884A-DA8B1B679709}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Water)\C48H18 (QD1).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{87EC4FA0-5033-4708-85BA-48C945BEF0A5}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Water)\SMDMol3_Extension_C48H18 (QD1).xms</URL>
+    </Document>
+    <Document>
+      <ID>{9544E389-B262-4184-854D-68ED7FD3FB78}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 Energy (Water)\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{7CA3A789-CC47-4EB7-A644-F61702C8676E}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 GeomOpt\C48H18 (QD1) DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{794C4A28-A3F2-427C-8ED6-1C073FBDB714}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 GeomOpt\C48H18 (QD1) Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{3614F672-E912-4F90-B3EE-65CB09633EC6}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 GeomOpt\C48H18 (QD1) Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{39B58163-C6CB-48D5-B171-1D55CB978672}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 GeomOpt\C48H18 (QD1).input</URL>
+    </Document>
+    <Document>
+      <ID>{9C5CF943-18C3-415D-89D2-607A07A6CD2A}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 GeomOpt\C48H18 (QD1).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{BD131BF2-2AB3-42FB-90A5-666A31D148F3}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 GeomOpt\C48H18 (QD1).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{665B15D9-4F72-4273-88CA-0058F3151975}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 GeomOpt\C48H18 (QD1).xtd</URL>
+    </Document>
+    <Document>
+      <ID>{7D848A20-BC08-411C-AE04-70B482A61EE1}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 GeomOpt\SMDMol3_Extension_C48H18 (QD1).xms</URL>
+    </Document>
+    <Document>
+      <ID>{4ED8AA11-E241-43FD-A0B6-6281075A5044}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1) DMol3 GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{E11079B7-9BD4-47CE-BAA0-520A5AF292B9}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 GeomOpt\C48H18 (QD2) Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{767EC04E-E1A9-479A-AD9E-19015D2DDF05}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Ethanol)\C48H18 (QD2) DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{3601FC6A-375E-43BA-A849-45E8AE480878}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Ethanol)\C48H18 (QD2) Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{BB40CFF6-F2F3-45C8-8A77-2E6716F648FA}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Ethanol)\C48H18 (QD2) Sigma Profile.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{9D12A7CA-7832-4716-A75C-12589B9541BD}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Ethanol)\C48H18 (QD2).arc</URL>
+    </Document>
+    <Document>
+      <ID>{AA2E7B7A-2490-40D9-BA81-79862DA0EACB}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Ethanol)\C48H18 (QD2).cosmo</URL>
+    </Document>
+    <Document>
+      <ID>{CE526E3E-07A9-47D4-9E20-DE847748789C}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Ethanol)\C48H18 (QD2).input</URL>
+    </Document>
+    <Document>
+      <ID>{B6BCAA70-1A7B-4421-ACED-2332116323AB}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Ethanol)\C48H18 (QD2).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{DE15A9C0-2EBD-43B9-A1B0-2DAD682F1FB2}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Ethanol)\C48H18 (QD2).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{548118A1-EBDD-4F85-8DDA-8F2AE48B09A7}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Ethanol)\SMDMol3_Extension_C48H18 (QD2).xms</URL>
+    </Document>
+    <Document>
+      <ID>{31557903-0248-4892-876F-2B58EBC9F532}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Ethanol)\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{893DE76E-8F5A-4C28-A334-93F85B087E5D}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Water)\C48H18 (QD2) DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{5D4017F3-A8C8-438B-AC60-C51F725BEFE1}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Water)\C48H18 (QD2) Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{8E651161-9861-44C9-933E-41E527BD40B3}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Water)\C48H18 (QD2) Sigma Profile.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{B0C5CADD-847F-48FD-B2B4-F783D08D2EF4}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Water)\C48H18 (QD2).arc</URL>
+    </Document>
+    <Document>
+      <ID>{D291FA70-75DE-4DEC-9BF9-4619B823D737}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Water)\C48H18 (QD2).cosmo</URL>
+    </Document>
+    <Document>
+      <ID>{81C337A0-932A-4B8B-ADB9-073C0B0F5B35}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Water)\C48H18 (QD2).input</URL>
+    </Document>
+    <Document>
+      <ID>{3FA8256F-0357-4BC2-96D6-CBFE06DC532D}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Water)\C48H18 (QD2).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{B14DC57A-20D0-444A-B3EA-0C547F3F9C75}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Water)\C48H18 (QD2).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{0BE024C9-029E-410B-A3B2-2175853DB25E}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Water)\SMDMol3_Extension_C48H18 (QD2).xms</URL>
+    </Document>
+    <Document>
+      <ID>{3E769872-88A2-4665-B8FB-E789A97E7AC5}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 Energy (Water)\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{2AC3CA71-0690-40E7-8496-BC2BF94FE3CE}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 GeomOpt\C48H18 (QD2) DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{A9F495F7-40AC-4F92-9459-CEFA4C86F920}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 GeomOpt\C48H18 (QD2) Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{16E9FB07-0CBE-4BE8-A283-E22B7221B009}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 GeomOpt\C48H18 (QD2) Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{EE48BBF7-EC17-4217-9465-DCCEF9AE5BD5}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 GeomOpt\C48H18 (QD2).input</URL>
+    </Document>
+    <Document>
+      <ID>{3CE3D49E-E9F2-46CF-83D3-C111602F652A}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 GeomOpt\C48H18 (QD2).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{B87EFE50-F6DC-4100-9882-BE610AEA79E1}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 GeomOpt\C48H18 (QD2).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{D1CF0E8B-9F14-4DDE-9FA4-98629D116A26}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 GeomOpt\C48H18 (QD2).xtd</URL>
+    </Document>
+    <Document>
+      <ID>{93CFF506-0357-42C2-8C5C-5117ED4AA701}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 GeomOpt\SMDMol3_Extension_C48H18 (QD2).xms</URL>
+    </Document>
+    <Document>
+      <ID>{30FF9FE2-0E41-463C-A79D-DB272900857B}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2) DMol3 GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{596E6620-A4EE-4602-8BD7-7A0B350BEAFB}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD3)\C48H18 (QD3) DMol3 GeomOpt\C48H18 (QD3) Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{AAE55513-FEE0-4CB4-89AE-F59909734260}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD3)\C48H18 (QD3) DMol3 GeomOpt\C48H18 (QD3) DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{1291AEB5-FD20-4D41-A8E7-070954C734DE}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD3)\C48H18 (QD3) DMol3 GeomOpt\C48H18 (QD3) Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{ACBDD6A1-58B6-4050-94B0-3ECBC1CADA6B}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD3)\C48H18 (QD3) DMol3 GeomOpt\C48H18 (QD3) Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{CA19713B-E01E-4B7B-946F-4B2D8E2A613C}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD3)\C48H18 (QD3) DMol3 GeomOpt\C48H18 (QD3).input</URL>
+    </Document>
+    <Document>
+      <ID>{ED4DD33E-2430-42C6-9C6A-2CFA692869EB}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD3)\C48H18 (QD3) DMol3 GeomOpt\C48H18 (QD3).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{FFCBCBD4-6495-41DB-B85F-83C5B3BBF591}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD3)\C48H18 (QD3) DMol3 GeomOpt\C48H18 (QD3).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{238F467F-D806-4FEB-8DD1-01A1EC42EDAF}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD3)\C48H18 (QD3) DMol3 GeomOpt\C48H18 (QD3).xtd</URL>
+    </Document>
+    <Document>
+      <ID>{FDC9DDAB-7437-4610-AC3C-D1D7784B6DB5}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD3)\C48H18 (QD3) DMol3 GeomOpt\SMDMol3_Extension_C48H18 (QD3).xms</URL>
+    </Document>
+    <Document>
+      <ID>{64F6C79C-B4FE-4DD5-B057-A60FA2957735}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD3)\C48H18 (QD3) DMol3 GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{0717C863-EA8F-4196-B737-0101B7F012F3}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD4)\C48H18 (QD4) DMol3 GeomOpt\C48H18 (QD4) Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{811C1463-1021-4762-AFC3-89B3E4AFF715}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD4)\C48H18 (QD4) DMol3 GeomOpt\C48H18 (QD4) DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{5657A15C-0F8C-41E6-B110-B37E0A2A83AB}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD4)\C48H18 (QD4) DMol3 GeomOpt\C48H18 (QD4) Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{EE329C7C-8900-46B8-8A55-A4E5E966E537}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD4)\C48H18 (QD4) DMol3 GeomOpt\C48H18 (QD4) Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{E2F0E8A4-22B2-405D-A868-43F55B1CF416}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD4)\C48H18 (QD4) DMol3 GeomOpt\C48H18 (QD4).input</URL>
+    </Document>
+    <Document>
+      <ID>{C514F9DE-BB30-4A1B-B1BD-692286A9EC6F}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD4)\C48H18 (QD4) DMol3 GeomOpt\C48H18 (QD4).outmol</URL>
+    </Document>
+    <Document>
+      <ID>{DF87D40B-C242-4397-92BB-49ABABB85E98}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD4)\C48H18 (QD4) DMol3 GeomOpt\C48H18 (QD4).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{2C261145-8345-495C-8AE8-AAD41785CFAC}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD4)\C48H18 (QD4) DMol3 GeomOpt\C48H18 (QD4).xtd</URL>
+    </Document>
+    <Document>
+      <ID>{0774ED26-BE89-4275-94B8-BD11EBC5A640}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD4)\C48H18 (QD4) DMol3 GeomOpt\SMDMol3_Extension_C48H18 (QD4).xms</URL>
+    </Document>
+    <Document>
+      <ID>{002E9DBD-0857-4413-8442-F7A554AB47BE}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD4)\C48H18 (QD4) DMol3 GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{6F64AB62-C126-4C47-A9C2-E9A9B233B0FB}</ID>
+      <Paths>1</Paths>
+      <URL>.\HBC.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{815316EB-CE6E-4685-B37E-60DD59964A86}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{11713955-050C-484E-A601-91BF65469134}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{C11BB2EB-3845-4EAB-8832-BDB5BFF56C77}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{231D81A4-40B6-4289-8C04-92746886055E}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{C5FA445B-9DB3-43E2-95BF-190F50783FA7}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{F8F2ED8A-4D2E-4CE5-8D1C-C294766E76D6}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD3)\C48H18 (QD3).xsd</URL>
+    </Document>
+    <Document>
+      <ID>{4B89CC74-3099-4212-B089-6C0EE19D1C4D}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18 (QD4)\C48H18 (QD4).xsd</URL>
+    </Document>
+  </DocumentManager>
+  <ViewRegistry>
+  </ViewRegistry>
+  <DocumentEventManager>
+    <DocumentRelation>
+      <DocRef1>{82427D8B-CF5F-4AAC-A718-1204789EFA54}</DocRef1>
+      <DocRef2>{8A369386-15C5-4AED-8F31-DE940910D602}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{8A369386-15C5-4AED-8F31-DE940910D602}</DocRef1>
+      <DocRef2>{82427D8B-CF5F-4AAC-A718-1204789EFA54}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{023ACB5F-4F9C-4B63-972B-C7A0C9B0BB25}</DocRef1>
+      <DocRef2>{8A369386-15C5-4AED-8F31-DE940910D602}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{8A369386-15C5-4AED-8F31-DE940910D602}</DocRef1>
+      <DocRef2>{023ACB5F-4F9C-4B63-972B-C7A0C9B0BB25}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{82427D8B-CF5F-4AAC-A718-1204789EFA54}</DocRef1>
+      <DocRef2>{8A369386-15C5-4AED-8F31-DE940910D602}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{8A369386-15C5-4AED-8F31-DE940910D602}</DocRef1>
+      <DocRef2>{82427D8B-CF5F-4AAC-A718-1204789EFA54}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{023ACB5F-4F9C-4B63-972B-C7A0C9B0BB25}</DocRef1>
+      <DocRef2>{8A369386-15C5-4AED-8F31-DE940910D602}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{8A369386-15C5-4AED-8F31-DE940910D602}</DocRef1>
+      <DocRef2>{023ACB5F-4F9C-4B63-972B-C7A0C9B0BB25}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{991DF488-A620-49AD-844B-2B84CB8937A0}</DocRef1>
+      <DocRef2>{989E290C-5DFC-459B-AD92-E2A708E1E396}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{989E290C-5DFC-459B-AD92-E2A708E1E396}</DocRef1>
+      <DocRef2>{991DF488-A620-49AD-844B-2B84CB8937A0}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{756BCA1D-47E8-42A1-8583-D9CBD40762F3}</DocRef1>
+      <DocRef2>{989E290C-5DFC-459B-AD92-E2A708E1E396}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{989E290C-5DFC-459B-AD92-E2A708E1E396}</DocRef1>
+      <DocRef2>{756BCA1D-47E8-42A1-8583-D9CBD40762F3}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{CF73D2D2-36F9-4D9F-96C7-2E938DF2E0A0}</DocRef1>
+      <DocRef2>{C7DC7424-3895-4ECD-9ED1-CE9FDDE9B30B}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{C7DC7424-3895-4ECD-9ED1-CE9FDDE9B30B}</DocRef1>
+      <DocRef2>{CF73D2D2-36F9-4D9F-96C7-2E938DF2E0A0}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{6B96CB3D-4BB3-4B93-9BA5-21509207B431}</DocRef1>
+      <DocRef2>{C7DC7424-3895-4ECD-9ED1-CE9FDDE9B30B}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{C7DC7424-3895-4ECD-9ED1-CE9FDDE9B30B}</DocRef1>
+      <DocRef2>{6B96CB3D-4BB3-4B93-9BA5-21509207B431}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{07A470A6-96CF-484C-9C06-E8DB4608B699}</DocRef1>
+      <DocRef2>{279E4F77-F5B1-432E-9CDB-C33E91B00EF6}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{279E4F77-F5B1-432E-9CDB-C33E91B00EF6}</DocRef1>
+      <DocRef2>{07A470A6-96CF-484C-9C06-E8DB4608B699}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{E9CEA575-13C0-4BD0-852B-25DE5AC523E7}</DocRef1>
+      <DocRef2>{279E4F77-F5B1-432E-9CDB-C33E91B00EF6}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{279E4F77-F5B1-432E-9CDB-C33E91B00EF6}</DocRef1>
+      <DocRef2>{E9CEA575-13C0-4BD0-852B-25DE5AC523E7}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{DDB2EEF1-0301-4A72-A67F-9088F0DD093C}</DocRef1>
+      <DocRef2>{E52C61B1-3D90-4E02-9366-A7B5731163DA}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{E52C61B1-3D90-4E02-9366-A7B5731163DA}</DocRef1>
+      <DocRef2>{DDB2EEF1-0301-4A72-A67F-9088F0DD093C}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{D850DF28-396F-4B92-88FE-0404A2A0AF4A}</DocRef1>
+      <DocRef2>{E52C61B1-3D90-4E02-9366-A7B5731163DA}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{E52C61B1-3D90-4E02-9366-A7B5731163DA}</DocRef1>
+      <DocRef2>{D850DF28-396F-4B92-88FE-0404A2A0AF4A}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{51D45FBB-448C-4E6F-B221-88D739669794}</DocRef1>
+      <DocRef2>{8C6B79B1-ECBF-45D4-A504-BE2259C36490}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{8C6B79B1-ECBF-45D4-A504-BE2259C36490}</DocRef1>
+      <DocRef2>{51D45FBB-448C-4E6F-B221-88D739669794}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{F78071C0-3E60-4C66-8784-797A1CDE780F}</DocRef1>
+      <DocRef2>{8C6B79B1-ECBF-45D4-A504-BE2259C36490}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{8C6B79B1-ECBF-45D4-A504-BE2259C36490}</DocRef1>
+      <DocRef2>{F78071C0-3E60-4C66-8784-797A1CDE780F}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{C453DC79-CA7C-4DF1-A851-E93659DCCCD2}</DocRef1>
+      <DocRef2>{F6051852-332D-43FA-863F-093174861FAE}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{F6051852-332D-43FA-863F-093174861FAE}</DocRef1>
+      <DocRef2>{C453DC79-CA7C-4DF1-A851-E93659DCCCD2}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{3C86036C-97A6-4CC8-92DC-178CA5A8CD66}</DocRef1>
+      <DocRef2>{F6051852-332D-43FA-863F-093174861FAE}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{F6051852-332D-43FA-863F-093174861FAE}</DocRef1>
+      <DocRef2>{3C86036C-97A6-4CC8-92DC-178CA5A8CD66}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{F9FA332F-B830-419D-AAD0-BB3786EAFA56}</DocRef1>
+      <DocRef2>{4B563BB1-7BB4-4CE9-A672-C3D8B900E971}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{4B563BB1-7BB4-4CE9-A672-C3D8B900E971}</DocRef1>
+      <DocRef2>{F9FA332F-B830-419D-AAD0-BB3786EAFA56}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{E2725AAC-826E-4022-9D68-5680FEB2DC1B}</DocRef1>
+      <DocRef2>{4B563BB1-7BB4-4CE9-A672-C3D8B900E971}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{4B563BB1-7BB4-4CE9-A672-C3D8B900E971}</DocRef1>
+      <DocRef2>{E2725AAC-826E-4022-9D68-5680FEB2DC1B}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{DDC55831-67A8-46A7-A540-3AEA49154587}</DocRef1>
+      <DocRef2>{F3CC2DB2-BA35-449B-A0A6-10A43CD4B72B}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{F3CC2DB2-BA35-449B-A0A6-10A43CD4B72B}</DocRef1>
+      <DocRef2>{DDC55831-67A8-46A7-A540-3AEA49154587}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{28C2E2FA-A23C-46DB-89D2-BBC43D461849}</DocRef1>
+      <DocRef2>{F3CC2DB2-BA35-449B-A0A6-10A43CD4B72B}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{F3CC2DB2-BA35-449B-A0A6-10A43CD4B72B}</DocRef1>
+      <DocRef2>{28C2E2FA-A23C-46DB-89D2-BBC43D461849}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{4BC8F677-6C20-4D88-8693-6FDC00285B92}</DocRef1>
+      <DocRef2>{EF453ACB-7850-4570-86BD-0A76A2F33FA9}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{EF453ACB-7850-4570-86BD-0A76A2F33FA9}</DocRef1>
+      <DocRef2>{4BC8F677-6C20-4D88-8693-6FDC00285B92}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{0C07F558-5AB3-4A34-8100-58200ACC6CF5}</DocRef1>
+      <DocRef2>{EF453ACB-7850-4570-86BD-0A76A2F33FA9}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{EF453ACB-7850-4570-86BD-0A76A2F33FA9}</DocRef1>
+      <DocRef2>{0C07F558-5AB3-4A34-8100-58200ACC6CF5}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{F8220A15-4A3B-4EB6-AEA9-3973CC74614B}</DocRef1>
+      <DocRef2>{7BFBFABA-5152-45DB-80B5-21333FFF0A1D}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{7BFBFABA-5152-45DB-80B5-21333FFF0A1D}</DocRef1>
+      <DocRef2>{F8220A15-4A3B-4EB6-AEA9-3973CC74614B}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{813E1F6A-8311-406F-BC55-7FED2607AF6F}</DocRef1>
+      <DocRef2>{7BFBFABA-5152-45DB-80B5-21333FFF0A1D}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{7BFBFABA-5152-45DB-80B5-21333FFF0A1D}</DocRef1>
+      <DocRef2>{813E1F6A-8311-406F-BC55-7FED2607AF6F}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{57A144ED-5252-4C29-A73F-440FF10ED248}</DocRef1>
+      <DocRef2>{E1080918-3CBE-4E22-94D6-D2F3D619D116}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{E1080918-3CBE-4E22-94D6-D2F3D619D116}</DocRef1>
+      <DocRef2>{57A144ED-5252-4C29-A73F-440FF10ED248}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{8D7153C0-919A-498C-8436-E0B2B03DB047}</DocRef1>
+      <DocRef2>{E1080918-3CBE-4E22-94D6-D2F3D619D116}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{E1080918-3CBE-4E22-94D6-D2F3D619D116}</DocRef1>
+      <DocRef2>{8D7153C0-919A-498C-8436-E0B2B03DB047}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{B79436CA-F569-4A75-8709-45BEBBB011B1}</DocRef1>
+      <DocRef2>{0C2CC947-B953-4D9C-A341-92BD38FF90C6}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{0C2CC947-B953-4D9C-A341-92BD38FF90C6}</DocRef1>
+      <DocRef2>{B79436CA-F569-4A75-8709-45BEBBB011B1}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{806807C7-6FB6-40B9-B197-B8F113B783A7}</DocRef1>
+      <DocRef2>{0C2CC947-B953-4D9C-A341-92BD38FF90C6}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{0C2CC947-B953-4D9C-A341-92BD38FF90C6}</DocRef1>
+      <DocRef2>{806807C7-6FB6-40B9-B197-B8F113B783A7}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{F3226C2F-70BD-45E5-B89D-4CE1A52D3D5C}</DocRef1>
+      <DocRef2>{D6A73C1A-783A-4AFA-91A4-7A3640D9C518}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{D6A73C1A-783A-4AFA-91A4-7A3640D9C518}</DocRef1>
+      <DocRef2>{F3226C2F-70BD-45E5-B89D-4CE1A52D3D5C}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{FF3BB306-34A1-4E07-8D26-1A243796BCC9}</DocRef1>
+      <DocRef2>{D6A73C1A-783A-4AFA-91A4-7A3640D9C518}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{D6A73C1A-783A-4AFA-91A4-7A3640D9C518}</DocRef1>
+      <DocRef2>{FF3BB306-34A1-4E07-8D26-1A243796BCC9}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+  </DocumentEventManager>
+</Project>
