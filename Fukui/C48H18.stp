@@ -6,7 +6,7 @@
     <Document>
       <ID>{1A19C081-B4CF-439F-8CA7-4B51C201F199}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18 (C1H).xsd</URL>
+      <URL>.\C48H18 (C1H)\C48H18 (C1H).xsd</URL>
       <Property>
         <Name>Visible</Name>
         <Type>11</Type>
@@ -16,7 +16,7 @@
     <Document>
       <ID>{32293EF4-5DD9-4242-83A1-487563EA1DFC}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18 (D2H).xsd</URL>
+      <URL>.\C48H18 (D2H)\C48H18 (D2H).xsd</URL>
       <Property>
         <Name>Visible</Name>
         <Type>11</Type>
@@ -26,27 +26,27 @@
     <Document>
       <ID>{224D7858-5CE5-4A30-9100-796DA29270BA}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18 (D3H).xsd</URL>
+      <URL>.\C48H18 (D3H)\C48H18 (D3H).xsd</URL>
     </Document>
     <Document>
       <ID>{E8D65235-DA8B-4A1B-B9A2-47F7E08FBD88}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18 (QD2).xsd</URL>
+      <URL>.\C48H18 (QD2)\C48H18 (QD2).xsd</URL>
     </Document>
     <Document>
       <ID>{CC117E10-EF2D-47FB-ADC9-D271253B23A1}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18 (QD3).xsd</URL>
+      <URL>.\C48H18 (QD3)\C48H18 (QD3).xsd</URL>
     </Document>
     <Document>
       <ID>{6D8247B0-C8D5-4A07-95DC-9F358CE62490}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18 (QD4).xsd</URL>
+      <URL>.\C48H18 (QD4)\C48H18 (QD4).xsd</URL>
     </Document>
     <Document>
       <ID>{6A9EF10C-0BD9-4253-9C75-38508E2FA57A}</ID>
       <Paths>1</Paths>
-      <URL>.\C48H18 (QD1).xsd</URL>
+      <URL>.\C48H18 (QD1)\C48H18 (QD1).xsd</URL>
     </Document>
     <Document>
       <ID>{858BE031-4A84-4BD4-B039-3E0C003138AB}</ID>
@@ -725,6 +725,76 @@
     </Document>
   </DocumentManager>
   <ViewRegistry>
+    <Frame>
+      <Active>false</Active>
+      <Left>208</Left>
+      <Top>208</Top>
+      <Width>1780</Width>
+      <Height>505</Height>
+      <Maximized>false</Maximized>
+      <Minimized>false</Minimized>
+      <View>
+        <Active>true</Active>
+        <DocumentID>{1A19C081-B4CF-439F-8CA7-4B51C201F199}</DocumentID>
+        <Type>SVViewer3D.Viewer3DControl</Type>
+      </View>
+    </Frame>
+    <Frame>
+      <Active>false</Active>
+      <Left>234</Left>
+      <Top>234</Top>
+      <Width>1780</Width>
+      <Height>505</Height>
+      <Maximized>false</Maximized>
+      <Minimized>false</Minimized>
+      <View>
+        <Active>true</Active>
+        <DocumentID>{2CF0B07E-F88B-416C-9210-C6D6943AB37B}</DocumentID>
+        <Type>SVViewer3D.Viewer3DControl</Type>
+      </View>
+    </Frame>
+    <Frame>
+      <Active>false</Active>
+      <Left>0</Left>
+      <Top>0</Top>
+      <Width>1780</Width>
+      <Height>505</Height>
+      <Maximized>false</Maximized>
+      <Minimized>false</Minimized>
+      <View>
+        <Active>true</Active>
+        <DocumentID>{696ADC4B-5B35-49BC-919B-3B2B086693A6}</DocumentID>
+        <Type>SVViewer3D.Viewer3DControl</Type>
+      </View>
+    </Frame>
+    <Frame>
+      <Active>false</Active>
+      <Left>52</Left>
+      <Top>52</Top>
+      <Width>1780</Width>
+      <Height>505</Height>
+      <Maximized>false</Maximized>
+      <Minimized>false</Minimized>
+      <View>
+        <Active>true</Active>
+        <DocumentID>{1C63C8AA-80AE-41DB-84BD-49838F628B83}</DocumentID>
+        <Type>SVViewer3D.Viewer3DControl</Type>
+      </View>
+    </Frame>
+    <Frame>
+      <Active>true</Active>
+      <Left>78</Left>
+      <Top>78</Top>
+      <Width>1780</Width>
+      <Height>505</Height>
+      <Maximized>true</Maximized>
+      <Minimized>false</Minimized>
+      <View>
+        <Active>true</Active>
+        <DocumentID>{6D8247B0-C8D5-4A07-95DC-9F358CE62490}</DocumentID>
+        <Type>SVViewer3D.Viewer3DControl</Type>
+      </View>
+    </Frame>
   </ViewRegistry>
   <DocumentEventManager>
     <DocumentRelation>
@@ -1025,6 +1095,26 @@
     <DocumentRelation>
       <DocRef1>{D6A73C1A-783A-4AFA-91A4-7A3640D9C518}</DocRef1>
       <DocRef2>{FF3BB306-34A1-4E07-8D26-1A243796BCC9}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{FFCA620B-ED50-40D3-B40D-186C0057C96F}</DocRef1>
+      <DocRef2>{04CE7FDF-02C2-4A82-8802-02B4599468EA}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{04CE7FDF-02C2-4A82-8802-02B4599468EA}</DocRef1>
+      <DocRef2>{FFCA620B-ED50-40D3-B40D-186C0057C96F}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{4F6864C7-D843-4B53-BC3B-4417D1C7D3E4}</DocRef1>
+      <DocRef2>{04CE7FDF-02C2-4A82-8802-02B4599468EA}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{04CE7FDF-02C2-4A82-8802-02B4599468EA}</DocRef1>
+      <DocRef2>{4F6864C7-D843-4B53-BC3B-4417D1C7D3E4}</DocRef2>
       <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
     </DocumentRelation>
   </DocumentEventManager>

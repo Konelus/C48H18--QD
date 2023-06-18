@@ -59,6 +59,9 @@
 <LOGICITEM NAME="DMol3">
 	<STATE NAME="SMDMol3.SetupState" VERSION="20.1">
 	<PROPERTIES>
+	<PROPERTY NAME="Task">
+	<VALUE>2</VALUE>
+	</PROPERTY>
 	<PROPERTY NAME="Quality">
 	<VALUE>3</VALUE>
 	</PROPERTY>
@@ -311,6 +314,9 @@
 	</PROPERTY>
 	<PROPERTY NAME="SolventDielectric">
 	<VALUE>24.3</VALUE>
+	</PROPERTY>
+	<PROPERTY NAME="SmearingValueEnabled">
+	<VALUE>false</VALUE>
 	</PROPERTY>
 	<PROPERTY NAME="DFTDMethod">
 	<VALUE>1</VALUE>
@@ -1382,7 +1388,7 @@
 	</VALUE>
 	</PROPERTY>
 	<PROPERTY NAME="DensityOfStates">
-	<VALUE>true</VALUE>
+	<VALUE>false</VALUE>
 	</PROPERTY>
 	<PROPERTY NAME="DOSKPGenerator">
 	<VALUE>SMXQMUtilities.KPointSetGenerator
@@ -1393,10 +1399,10 @@
 	</VALUE>
 	</PROPERTY>
 	<PROPERTY NAME="Fukui">
-	<VALUE>true</VALUE>
+	<VALUE>false</VALUE>
 	</PROPERTY>
 	<PROPERTY NAME="CalculateOptics">
-	<VALUE>true</VALUE>
+	<VALUE>false</VALUE>
 	</PROPERTY>
 	<PROPERTY NAME="OpticalLevels">
 	<VALUE>45</VALUE>
